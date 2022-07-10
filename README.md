@@ -1,2 +1,2 @@
 # java-loiane
-projetos de estudos em java propostos no curso da Loaine 
+Projetos de estudos em java propostos no curso de [Java Básico da Loaine](https://loiane.training/curso/java-basico)
